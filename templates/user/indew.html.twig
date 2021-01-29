@@ -1,0 +1,9 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Hello UserController!{% endblock %}
+
+{% block body %}
+{% for image in images %}
+<img src="data:image/png;base64,{{ image.photo}}">
+{% endfor %}
+{% endblock %}

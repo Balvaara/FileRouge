@@ -1,0 +1,35 @@
+Bienvenue dans le service Yonéma
+Voici les thermes du contrat d’engagement pour nos services pour le(a) Partenaire ALPHA:
+➔ acceptation pour règlement : Étape du traitement où le paiement, après avoir subi les
+divers contrôles, gestion du risque notamment, peut être soumis au règlement selon les
+règles et procédures du système.
+➔ Accepteur :Tout établissement de négociation ou prestataire de services qui accepte, en son
+nom propre ou au nom de son réseau, le paiement de biens ou services sous forme de
+monnaie électronique(Système Transfert).
+➔ Accès : Droit ou faculté, pour un établissement, d’utiliser les services du système de
+paiement afin d’effectuer des règlements pour son propre compte ou pour le compte de sa
+clientèle. Voir participant, participant direct, participant indirect.
+➔ Accord de taux futur : Contrat à terme de gré à gré sur taux d’intérêt. Le taux à
+payer/recevoir sur une obligation spécifique pendant une période déterminée, à partir d’une
+date ultérieure, est fixé au moment de la conclusion du contrat. Le système recevra 30% des
+bénéfices,l État 40%,destinataire 20%,donneur 10%.
+➔ algorithme de chiffrement :Fonction algorithmique utilisée parallèlement à une clé,afin
+de garantir la confidentialité, l’intégrité et/ou l’authentification de données.
+➔ Annulation : Si un participant n’est pas en mesure de régler, les transferts conditionnels
+concernant ce participant sont partiellement ou totalement retirés du système et les
+obligations de règlement découlant des participants restants sont recalculées. Une telle
+procédure a pour effet de reporter sur les autres participants les contraintes de liquidité,
+voire les pertes résultant du défaut de règlement, et peut, dans un cas extrême, donner lieu à
+des risques systémiques importants et imprévisibles. Appelée également révocation.
+➔ Blocage :Situation d’un système de transfert de fonds ou de valeurs mobilières dans laquelle
+l’impossibilité d’exécuter quelques ordres de transfert (en raison de l’indisponibilité des
+fonds ou des valeurs nécessaires) empêche l’exécution d’un nombre important d’autres
+ordres émanant d’autres participants. Voir gestion de file d’attente, risque systémique,
+opération non dénouée.
+➔ Commission de transaction :Frais de transaction fixés par le système et à la charge du
+titulaire .
+➔ Confidentialité : Qualité de l’information accessible aux seules entités autorisées.
+➔ Confirmation : Chaque transaction quel-qu’elle soit sera accompagnée par un message de
+confirmation.
+Émail : lamine@gmail.com
+Tel : 774847102
